@@ -1,7 +1,7 @@
 # Sorting-algorithms-C
 Which sorting algorithm is fastest under varying conditions, and what data characteristics make comparison-based vs. non-comparison-based algorithms perform best? 
 
-** Step 1 ** : Choose programing language. I chose C and I will stick to it for the entire project. 
+Step 1: Choose programing language. I chose C and I will stick to it for the entire project. 
 
 Step 2: Build a program for each of the algorithms I’ll pick for this experiment. 
 
